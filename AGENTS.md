@@ -15,6 +15,7 @@
 4. 动手前检查权限(`90-governance/permissions.md`)和定版(只用 `status: 定版`,见 `90-governance/lifecycle.md`)。
 5. 完成后对照 `evals.md` 自检。
 6. 新经验按 `90-governance/intake-rules.md` 回流入库。
+7. 踩坑/被红线拦/客户反馈/遇到库没覆盖的新情况 → 记一行进 `90-governance/进化日志.md`（库靠它越用越聪明，定期按 `进化复盘SOP.md` 复盘回流）。
 
 ## 三、任务路由表
 | 你接到的任务长这样 | 去这条工作流 | 先读这张卡 |
