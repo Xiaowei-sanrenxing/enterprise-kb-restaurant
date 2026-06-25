@@ -11,7 +11,7 @@ This file guides Claude Code when working in this repository.
 1. 读 [`AGENTS.md`](./AGENTS.md) 任务路由表,判断属于哪条工作流。
 2. 打开对应 `10-workflows/<工作流>/_task-card.md`。
 3. 按任务卡读全 `context/`,检查 `90-governance/` 权限与定版。
-4. 动手 → 按 `evals.md` 自检 → 新经验按 `intake-rules.md` 回流。
+4. 动手 → 按 `evals.md` 自检 → 新经验按 `90-governance/intake-rules.md` 回流。
 
 ## 维护纪律
 - 只认 `status: 定版` 的资产做交付;草稿不外发。
